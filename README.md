@@ -29,7 +29,7 @@
 
 [twitter]: https://twitter.com/GeorgeO89203673
 [youtube]: 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: 
 [linkedin]: https://www.linkedin.com/in/george-ofosu-60342331/
 
 <!--
