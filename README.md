@@ -8,6 +8,7 @@
 - <b>Cybersecurity Risk Management and Assessment Lab</b>(https://github.com/djponto/-Risk-Management)
 - <b>Threat Analysis Project</b>(https://github.com/djponto/Threat-Analysis)
 - <b>Security Policies and Implementation</b>(https://github.com/djponto/Policies-and-Procedures)
+- <b>Security Metrics and Dashboard</b>(https://github.com/djponto/Security-Metrics)
 
 - 
 - <b>Active Driectory Home Lab</b>(https://github.com/joshmadakor1/Algorithms-Practice)
