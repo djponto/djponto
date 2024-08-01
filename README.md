@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <h2>CyberSecurity Lab Setup</h2>(https://github.com/djponto/CyberLab)
+- <b>CyberSecurity Lab Setup</b>(https://github.com/djponto/CyberLab)
 - <b>Cybersecurity Risk Management and Assessment Lab</b>(https://github.com/djponto/-Risk-Management)
 - <b>Active Driectory Home Lab</b>(https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Practical Network Penetration Tester (OSINT, [Pentest Play Book](https://academy.tcm-sec.com/courses/1368686/certificate), Privilege Escalation, and Blue Team )</b>
