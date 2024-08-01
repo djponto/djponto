@@ -1,4 +1,4 @@
-<h1>Hi, I'm George! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Penetration Tester</a>, <a href="https://www.youtube.com/c/joshmadakor">CyberSecurity Threat Hunter</a></h1>
+<h1>Hi, I'm George! <br/> <a href="https://www.linkedin.com/in/georgeofosu/">Penetration Tester</a>, <a href="https://www.linkedin.com/in/georgeofosu/">CyberSecurity Threat Hunter</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
