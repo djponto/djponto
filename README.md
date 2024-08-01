@@ -1,4 +1,4 @@
-<h1>Hi, I'm George! <br/> <a href="https://www.linkedin.com/in/georgeofosu/">Cybersecurity Specialist | IT Security Analyst | Certified Ethical Hacker | Network Security Professional</a>, <a href="https://www.linkedin.com/in/georgeofosu/">CyberSecurity Researcher</a></h1>
+<h2>Hi, I'm George! <br/> <a href="https://www.linkedin.com/in/georgeofosu/">Cybersecurity Specialist | IT Security Analyst | Certified Ethical Hacker | Network Security Professional</a>, <a href="https://www.linkedin.com/in/georgeofosu/">CyberSecurity Researcher</a></h2>
 
 <h2>👨‍💻 New Cyber Security Projects:</h2>
 
