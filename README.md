@@ -1,6 +1,6 @@
-<h2>Hi, I'm George! <br/> <a href="https://www.linkedin.com/in/georgeofosu/">Cybersecurity Specialist | IT Security Analyst | Certified Ethical Hacker | Network Security Professional</a>, <a href="https://www.linkedin.com/in/georgeofosu/">CyberSecurity Researcher</a></h2>
+<h3>Hi, I'm George! <br/> <a href="https://www.linkedin.com/in/georgeofosu/">Cybersecurity Specialist | IT Security Analyst | Certified Ethical Hacker | Network Security Professional</a>, <a href="https://www.linkedin.com/in/georgeofosu/">CyberSecurity Researcher</a></h3>
 
-<h2>👨‍💻 New Cyber Security Projects:</h2>
+<h1>👨‍💻 New Cyber Security Projects:</h1>
 
 - <b>CyberSecurity Lab Setup</b>(https://github.com/djponto/CyberLab)
 - <b>Cybersecurity Risk Management and Assessment Lab</b>(https://github.com/djponto/-Risk-Management)
