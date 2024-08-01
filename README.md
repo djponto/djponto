@@ -29,7 +29,7 @@
 [twitter]: https://twitter.com/GeorgeO89203673
 [youtube]: 
 [instagram]: 
-[linkedin]: https://www.linkedin.com/in/george-ofosu-60342331/
+[linkedin]: https://www.linkedin.com/in/georgeofosu/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
