@@ -1,6 +1,6 @@
 <h1>Hi, I'm George! <br/> <a href="https://www.linkedin.com/in/georgeofosu/">Cybersecurity Specialist | IT Security Analyst | Certified Ethical Hacker | Network Security Professional</a>, <a href="https://www.linkedin.com/in/georgeofosu/">CyberSecurity Researcher</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 New Cyber Security Projects:</h2>
 
 - <b>CyberSecurity Lab Setup</b>(https://github.com/djponto/CyberLab)
 - <b>Cybersecurity Risk Management and Assessment Lab</b>(https://github.com/djponto/-Risk-Management)
