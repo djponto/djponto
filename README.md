@@ -15,7 +15,7 @@
 - [eJPT](https://elearnsecurity.com/verify-certificate/)   Credential ID 5892690
 - [CySa+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
 - [Pentest+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
-- [CASP+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
+- [CASP+](https://www.credly.com/badges/ef81530f-51ce-4da7-833a-4d3308664bc0/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
