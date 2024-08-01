@@ -9,8 +9,13 @@
 - <b>Threat Analysis Project</b>(https://github.com/djponto/Threat-Analysis)
 - <b>Security Policies and Implementation</b>(https://github.com/djponto/Policies-and-Procedures)
 - <b>Security Metrics and Dashboard</b>(https://github.com/djponto/Security-Metrics)
+- <b>Vulnerability Scanning with OpenVAS</b>(https://github.com/djponto/Vulnerability-Scanning)
 
-- 
+
+
+
+
+<h3>👨‍💻 2023 CyberSecurity Projects:</h3>
 - <b>Active Driectory Home Lab</b>(https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Practical Network Penetration Tester (OSINT, [Pentest Play Book](https://academy.tcm-sec.com/courses/1368686/certificate), Privilege Escalation, and Blue Team )</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
