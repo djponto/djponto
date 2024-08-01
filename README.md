@@ -13,7 +13,10 @@
 - <h2> Certifications </h2>
 - [Security+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
 - [eJPT](https://elearnsecurity.com/verify-certificate/)   Credential ID 5892690
-- 
+-[CySa+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
+ [Pentest+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
+ [CASP+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
