@@ -30,7 +30,7 @@
 
   
 - <h2> Certifications </h2>
-- [Security+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)
+- [Security+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile) March, 2020
 - [eJPT](https://elearnsecurity.com/verify-certificate/)   Credential ID 5892690 March, 2021
 - [CySa+](https://www.credly.com/badges/b019695c-75b4-4e84-b3a6-1f50f1a5265e) April, 2024
 - [Pentest+](https://www.credly.com/earner/earned/badge/8d3c795d-156a-4627-b08a-df4791a9d74b) April, 2024
