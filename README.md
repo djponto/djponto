@@ -4,6 +4,7 @@
 
 <h1>👨‍💻 New Cyber Security Projects: 2024</h1>
 
+- <b>Malware Analysis and Containment</b>(https://github.com/djponto/Vulnerability-Scanning)
 - <b>CyberSecurity Lab Setup</b>(https://github.com/djponto/CyberLab)
 - <b>Cybersecurity Risk Management and Assessment Lab</b>(https://github.com/djponto/-Risk-Management)
 - <b>Threat Analysis Project</b>(https://github.com/djponto/Threat-Analysis)
