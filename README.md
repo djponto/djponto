@@ -14,7 +14,7 @@
 
 ---
 <h1>👨‍💻 My Portfolio</h1>
- <b></b>Welcome to My Projects</b>(https://github.com/djponto/Portfolio) 
+ <b>Welcome to My Projects</b>      (https://github.com/djponto/Portfolio) 
 
 
 
